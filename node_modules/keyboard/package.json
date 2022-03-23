@@ -1,0 +1,20 @@
+{
+  "name": "keyboard",
+  "version": "0.0.1",
+  "description": "High quality keybinding library",
+  "main": "Keyboard.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Benvie/Keyboard.git"
+  },
+  "keywords": [
+    "keyboard",
+    "keybind",
+    "KeyboardEvent",
+    "bind",
+    "input",
+    "events"
+  ],
+  "author": "Brandon Benvie",
+  "license": "MIT"
+}
