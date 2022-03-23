@@ -1,6 +1,6 @@
 # exp_counter 👾
 
-Its' a exp counter designed to work in the MMORPG New World but works in every MMO, its good to use on grinding games.
+Its' a exp counter designed to work in the MMORPG New World but works in every MMO, its good to use on grinding games. It's created using Python Tkinter  👻
 
 ## Use: 👻
 
